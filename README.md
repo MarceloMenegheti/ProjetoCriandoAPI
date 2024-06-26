@@ -5,10 +5,10 @@
 # 2. URL base - localHost
 
 # 3. EndPoints - 
-    # - localHost/livros (GET)
-    # - localHost/livros (POST)
-    # - localHost/livros/id (GET)
-    # - localHost/livros/id (PUT)
-    # - localHost/livros/id (DELETE)
+     - localHost/livros (GET)
+     - localHost/livros (POST)
+     - localHost/livros/id (GET)
+     - localHost/livros/id (PUT)
+     - localHost/livros/id (DELETE)
 
 # 4. Quais recursos - Livros
