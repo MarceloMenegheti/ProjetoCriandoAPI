@@ -1,4 +1,4 @@
-#APi - é um lugar para disponibilar recursos ou funcionalidades
+# APi - é um lugar para disponibilar recursos ou funcionalidades
 
 # 1. Objetivo - Criar um api de disponibiliza a consulta, criação, edição e exclusão de livros 
 
